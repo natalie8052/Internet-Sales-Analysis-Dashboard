@@ -16,24 +16,36 @@ To ensure the dashboard we're creating is actually useful to the audiences (Sale
 ### Data cleaning
 
 For the dashboard, I decided to use 5 datasets. I've attached the queries for this step.
-  1- DIM_Calendar
+ 
+ 1- DIM_Calendar
+ 
   ![image](https://user-images.githubusercontent.com/113878177/200687130-ffd41d77-7fc3-4516-b9a0-ada57c3ea394.png)
   
-  2- DIM_Customer
+  
+ 2- DIM_Customer
+ 
   ![image](https://user-images.githubusercontent.com/113878177/200687603-159d4220-3467-458e-b825-dfa4a458b7d3.png)
   
-  3- DIM_Product
+  
+ 3- DIM_Product
+ 
   ![image](https://user-images.githubusercontent.com/113878177/200687932-890440a9-7128-4912-83de-e91c8bd66bbc.png)
   
-  4- FACT_InternetSales
+ 4- FACT_InternetSales
+ 
   ![image](https://user-images.githubusercontent.com/113878177/200688036-b3431228-c11f-4f6c-9a65-464e0ab78c03.png)
 
-  5- FACT_SalesBudget (send over file)
+  
+ 5- FACT_SalesBudget (send over file)
+ 
   ![image](https://user-images.githubusercontent.com/113878177/200688503-7045984d-633c-4fad-ac7b-dd158556a890.png)
   
  ### Creating dashboard with PowerBI
  
- <iframe title="Sales Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTE0MDU2YzctYTNiZi00NmUwLTgwOGEtZmU1YzM5YzhmNjA5IiwidCI6IjM1NDMyZDE1LTZjMGYtNDVhZS1iYzg5LTMzOGIwMGJlYmJiYSIsImMiOjh9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+[Check this link to see the full dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTE0MDU2YzctYTNiZi00NmUwLTgwOGEtZmU1YzM5YzhmNjA5IiwidCI6IjM1NDMyZDE1LTZjMGYtNDVhZS1iYzg5LTMzOGIwMGJlYmJiYSIsImMiOjh9&pageName=ReportSection)
+
+![image](https://user-images.githubusercontent.com/113878177/200689791-6c60399c-23f1-4423-bb14-8cb4f20ecf8a.png)
+
 
 
 
