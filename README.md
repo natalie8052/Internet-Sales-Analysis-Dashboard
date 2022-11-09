@@ -1,5 +1,9 @@
 # Internet Sales Analysis Dashboard
 
+[Check this link to see the full dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTE0MDU2YzctYTNiZi00NmUwLTgwOGEtZmU1YzM5YzhmNjA5IiwidCI6IjM1NDMyZDE1LTZjMGYtNDVhZS1iYzg5LTMzOGIwMGJlYmJiYSIsImMiOjh9&pageName=ReportSection)
+
+![image](https://user-images.githubusercontent.com/113878177/200689791-6c60399c-23f1-4423-bb14-8cb4f20ecf8a.png)
+
 ## Project overview
 
 In this project, we have a scenario of receiving a task from the Sales Manager:
@@ -40,12 +44,6 @@ For the dashboard, I decided to use 5 datasets. I've attached the queries for th
  
   ![image](https://user-images.githubusercontent.com/113878177/200688503-7045984d-633c-4fad-ac7b-dd158556a890.png)
   
- ### Creating dashboard with PowerBI
- 
-[Check this link to see the full dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTE0MDU2YzctYTNiZi00NmUwLTgwOGEtZmU1YzM5YzhmNjA5IiwidCI6IjM1NDMyZDE1LTZjMGYtNDVhZS1iYzg5LTMzOGIwMGJlYmJiYSIsImMiOjh9&pageName=ReportSection)
-
-![image](https://user-images.githubusercontent.com/113878177/200689791-6c60399c-23f1-4423-bb14-8cb4f20ecf8a.png)
-
 
 
 
